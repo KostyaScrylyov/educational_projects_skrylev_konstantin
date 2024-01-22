@@ -11,4 +11,4 @@
 ## Описание данных
 
 ER-диаграмма базы данных:
-![ER](https://github.com/KostyaScrylyov/educational_projects_skrylev_konstantin/assets/89590350/fbad2071-c751-42b4-902f-365acd57ae91)****
+![ER](https://github.com/KostyaScrylyov/educational_projects_skrylev_konstantin/assets/89590350/fbad2071-c751-42b4-902f-365acd57ae91)

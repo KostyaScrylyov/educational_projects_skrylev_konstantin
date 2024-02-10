@@ -1,7 +1,7 @@
 # Портфолио проектов
 В репозитории содержатся проекты с курса Аналитик данных буткемп с платформы [Я Практикум](https://practicum.yandex.ru/.) и курса Open Machine Learning course с платформы [open data science](https://ods.ai/).
 
-В папке [yandex_practicum_data_analyst_bootcamp](https://github.com/KostyaScrylyov/educational_projects_skrylev_konstantin/tree/main/yandex_practicum_data_analyst_bootcamp) содержатся решения аналитических кейсов на реальных наборах данных. Ссылок на данные и самих данных к проектам этого курса нет, в соответствии с правилами платформы, на которой проходило обучение.
+В папке [yandex_practicum_data_analyst_bootcamp](https://github.com/KostyaScrylyov/educational_projects_skrylev_konstantin/tree/main/yandex_practicum_data_analyst_bootcamp) содержатся решения аналитических кейсов на реальных наборах данных. Представлены решения аналитических задачь с предобработкой данных, поиском закономерностей, выдвижением гипотиз и A/B тестированием.
 
 В папке [open_machine_learning_course](https://github.com/KostyaScrylyov/educational_projects_skrylev_konstantin/tree/main/open_machine_learning_course) содержаться решения кейсов с применением классических методов машинного обучения, таких как линейная регрессия, логистическая регрессия, дерево решений, случайный лес, bagging и gradient boosting. Так как курс является англоязычным, проекты в нём выполнялись на английском языке. 
 
